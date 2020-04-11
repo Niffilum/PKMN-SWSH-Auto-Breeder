@@ -1,5 +1,5 @@
-# CURRENTLY WORK IN PROGRESS
-The only code available for now is for the 5140 egg cycle
+# Officially done but not yet
+Still looking for ways I can optimize it 
 
 
 # Required Software
