@@ -73,7 +73,7 @@ static const Command softlockHoster[] = {
 	{LEFT, 150}, {B, 5}, {LEFT, 150},
 	{RIGHT, 150}, {B, 5}, {RIGHT, 150}, 
 	{LEFT, 150}, {B, 5}, {LEFT, 150},
-	{RIGHT, 150}, {B, 5}, {RIGHT, 150}, 
+	{RIGHT, 150}, {B, 5}, {RIGHT, 50}, 
 	
 	//Egg Hatched [84,92]
 	{NOTHING, 15},
