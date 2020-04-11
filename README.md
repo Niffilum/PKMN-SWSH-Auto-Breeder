@@ -46,6 +46,6 @@ Plug it in on the Change Grip/Order Menu in switch Home
 
 [brianuuuSonic](https://www.youtube.com/user/brianuuusonic2)
 
-[Split] (https://github.com/spl-t/swsh-auto-host)
+[Split](https://github.com/spl-t/swsh-auto-host)
 
 bgoproton & svatinus 
