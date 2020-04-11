@@ -1,5 +1,5 @@
 # CURRENTLY WORK IN PROGRESS
-The only code available for now is for the 5140 Egg group
+The only code available for now is for the 5140 egg cycle
 
 
 # Required Software
@@ -22,6 +22,7 @@ Prerequisites:
 - Text speed: Fast
 - Nickname: NO
 - Box: Manual
+- Pokemon's Egg Cycle (https://pokemondb.net/)
 
 Note: Poke Menu must be closed and you are in the overworld
 Plug it in on the Change Grip/Order Menu in switch Home
