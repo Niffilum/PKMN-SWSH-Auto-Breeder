@@ -18,6 +18,7 @@ Board Software
 Prerequisites:
 - Route 5 Nursery
 - NOT on the Bike
+- There is an Egg waiting in the Nursery
 - Cursor in menu must be in map
 - Have 6 pokemon in party
 - Text speed: Fast
