@@ -1,5 +1,5 @@
 # CURRENTLY WORK IN PROGRESS
-Only available for now is for the 5140 Egg group
+The only code available for now is for the 5140 Egg group
 
 
 # required software
