@@ -17,6 +17,7 @@ Board Software
 
 Prerequisites:
 - Route 5 Nursery
+- NOT on the Bike
 - Cursor in menu must be in map
 - Have 6 pokemon in party
 - Text speed: Fast
