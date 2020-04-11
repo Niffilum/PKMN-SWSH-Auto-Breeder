@@ -14,8 +14,13 @@
 # atmega16u2 for Arduino UNO R3
 
 # TARGET =
-# softlockHoster
-# rollHoster
+# Breeder2560
+# Breeder3840
+# Breeder5120
+# Breeder6400
+# Breeder7680
+# Breeder8960
+# Breeder10240
 
 
 MCU          = atmega16u2
