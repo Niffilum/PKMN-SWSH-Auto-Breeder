@@ -29,22 +29,8 @@ Prerequisites:
 Note: Poke Menu must be closed and you are in the overworld
 Plug it in on the Change Grip/Order Menu in switch Home
 
-## Other useful tools created by [BrianuuuSonic](https://www.youtube.com/watch?v=y2xFf7e_KSU)
-
-- Autohost (Hardlock)
-- Day Skipper (Frame Skipping)
-- 3 Day Skipper (rolling den)
-- AutoFossil 
-- AutoLotto (masterball farming)
-- Watt Farmer
-- TurboA (digging bros etc.)
-- Berry Farmer
-- Auto Box Release
-
-## Useful Auto Hosters by [SPLIT](https://github.com/spl-t/swsh-auto-host)
-
-- softlockHoster (Camp method)
-- Roll Hoster
+## How To Flash Program
+Made by [BrianuuuSonic](https://www.youtube.com/watch?v=y2xFf7e_KSU) -https://www.youtube.com/watch?v=y2xFf7e_KSU&t=557s
 
 ## thanks & credits
 [Progmem](https://github.com/progmem/Switch-Fightstick)
