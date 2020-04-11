@@ -1,3 +1,7 @@
+CURRENTLY WORK IN PROGRESS
+Only available for now is for the 5140 Egg group
+
+
 # required software
 WinAVR: http://winavr.sourceforge.net/download.html
 
@@ -12,12 +16,12 @@ board software
 # Auto Breeding
 
 Prerequisites:
-Route 5 Nursery
-Cursor in menu must be in map
-Have 6 pokemon in party
-Text speed: Fast
-Nickname:NO
-Box: Manual
+- Route 5 Nursery
+- Cursor in menu must be in map
+- Have 6 pokemon in party
+- Text speed: Fast
+- Nickname:NO
+- Box: Manual
 
 Note: Poke Menu must be closed and you are in the overworld
 Plug it in on the Change Grip/Order Menu in switch Home
