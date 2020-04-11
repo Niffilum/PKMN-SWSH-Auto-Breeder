@@ -34,7 +34,7 @@ Plug it in on the Change Grip/Order Menu in switch Home
 - berry farmer
 - auto box release
 
-## Useful Auto Hosters by SPLIT (https://github.com/spl-t/swsh-auto-host)
+## Useful Auto Hosters by [SPLIT](https://github.com/spl-t/swsh-auto-host)
 
 - softlockHoster (Camp method)
 - Roll Hoster
